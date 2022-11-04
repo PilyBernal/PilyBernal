@@ -1,0 +1,5 @@
+- 👋 Hola soy @PilyBernal Front-end Developer
+- 👀 Me interesa el aprendizaje constante
+- 🌱 Actualmente estoy aprendiendo HTML, CSS, JavaScript, Firebase, Node.js
+- 💞️ Estoy buscando colaborar en proyectos que aporten a mi aprendizaje
+- 📫 Puedes contactarme por mail pilybernal@gmail.com
