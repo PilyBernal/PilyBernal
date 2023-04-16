@@ -1,13 +1,13 @@
-<center> Hola soy @PilyBernal 👋 </center>
-<center> <h3>Front-end Developer </center></h3>
+# Hola soy @PilyBernal 👋
+### Front-end Developer
 
 ![Fondo gitHub](https://user-images.githubusercontent.com/108838710/232319176-df639a10-c317-4695-a1e1-6ea85cc44b06.png)
 
-## About me 
+### About me 
 
 ***
 
-## 1. Background
+### 1. Background
 
 Siempre he sido muy curiosa, y cuando algo parece difícil, lo tomo como reto.
 
@@ -17,10 +17,10 @@ Me dediqué a las ventas por catálogo, atendí una cooperativa escolar, trabaj�
 
 Hasta que decidí dar continuidad a mi carrera profesional.
 
-## 2. Estudios
+### 2. Estudios
 
 Actualmente estoy haciendo una residencia en **Infotec**
-Fortaleciendo mis conocimientos de **Git**
+Fortalecí mis conocimientos de **Git**
 Aprendí un poco sobre *Virtualización*
 Y ahora estoy conociendo *Java*
 
@@ -28,11 +28,12 @@ En diciembre de 2022 egresé del bootcamp en Desarrollo Web de Laboratoria
 
 Estudié 6 semestres de la Licenciatura en Matemáticas Aplicadas y Computación
 
-## 3. Habilidades
+### 3. Habilidades
 
 HTML, CSS
 JavaScript, Java
-Node.js, Firebase, React
+Node.js, Firebase
+React
 Git
 gitHub, gitLab
 Figma
@@ -40,17 +41,17 @@ Trello
 Metodologías ágiles
 Replit, Atom, Visual Studio Code
 
-## 4. Actualmente estoy aprendiendo
+### 4. Actualmente estoy aprendiendo
 
 Java: Clases, objetos, listas, herencia, sobrecarga
 
-## 5. Contacto
+### 5. Contacto
 
 [https://www.linkedin.com/in/pilybernal/](https://www.linkedin.com/in/pilybernal/)
 
-## 6. Hobbies
+### 6. Hobbies
 
-Me gusta mucho cocinar, siempre en compañía de mis hijos.
-Disfruto modificar una receta, experimentando con la combinación de sabores y texturas
+Me gusta mucho cocinar, en compañía de mis hijos.
+Disfrutamos modificar una receta, experimentando con la combinación de sabores, texturas y condimentos
 
 Disfruto la jardinería, y ya tengo un pequeño huerto familiar.
