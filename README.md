@@ -1,7 +1,7 @@
-#     Hola soy @PilyBernal 👋 
+#                        Hola soy @PilyBernal 👋 
 ##    Front-end Developer
 
-![FONDO_DE_PERFIL](https://user-images.githubusercontent.com/108838710/232317958-489481ec-c488-4081-a5f2-bb2340449005.png)
+![Fondo gitHub](https://user-images.githubusercontent.com/108838710/232319176-df639a10-c317-4695-a1e1-6ea85cc44b06.png)
 
 ## About me 
 
@@ -38,7 +38,7 @@ Java: Clases, objetos, listas, herencia, sobrecarga
 
 ## 5. Contacto
 
-![Perfil de LinkedIn](https://www.linkedin.com/in/pilybernal/)
+[https://www.linkedin.com/in/pilybernal/](https://www.linkedin.com/in/pilybernal/)
 
 ## 6. Hobbies
 
