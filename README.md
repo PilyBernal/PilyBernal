@@ -1,5 +1,5 @@
-#                        Hola soy @PilyBernal 👋 
-##    Front-end Developer
+# <center> Hola soy @PilyBernal 👋 </center>
+### <center> Front-end Developer </center>
 
 ![Fondo gitHub](https://user-images.githubusercontent.com/108838710/232319176-df639a10-c317-4695-a1e1-6ea85cc44b06.png)
 
@@ -30,7 +30,15 @@ Estudié 6 semestres de la Licenciatura en Matemáticas Aplicadas y Computación
 
 ## 3. Habilidades
 
-HTML, CSS, JavaScript, Node.js, Firebase, React, Git, gitHub, gitLab, Linux, Máquinas virtuales, Java, Figma, Trello, Metodologías ágiles, Replit, Atom, Visual Studio Code
+HTML, CSS
+JavaScript, Java
+Node.js, Firebase, React
+Git
+gitHub, gitLab
+Figma
+Trello
+Metodologías ágiles
+Replit, Atom, Visual Studio Code
 
 ## 4. Actualmente estoy aprendiendo
 
