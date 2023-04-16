@@ -1,8 +1,6 @@
 #     Hola soy @PilyBernal 👋 
 ##    Front-end Developer
 
-![Fondo de perfil]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.thekeyitem.com%2Fblog%2Fdecoracion-oficinas-creativas&psig=AOvVaw2QKUlIK2hIANKH8F2ed-2q&ust=1681697502405000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLDr68Oprf4CFQAAAAAdAAAAABAE](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt0NSH2kwcoAtRcvUC5nhjyseZ4CMgA1Ja-g&usqp=CAU)
-
 ## Sobre mí 
 
 * [1. Background](#1-background)
