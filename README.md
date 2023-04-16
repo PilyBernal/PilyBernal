@@ -30,17 +30,17 @@ Estudié 6 semestres de la Licenciatura en Matemáticas Aplicadas y Computación
 
 ### 3. Habilidades
 
-HTML, CSS
-JavaScript, Java
-Node.js, Firebase
-React
-Git
-gitHub, gitLab
-Figma
-Trello
-Metodologías ágiles
-Replit, Atom, Visual Studio Code
-
+> HTML, CSS
+> JavaScript, Java
+> Node.js, Firebase
+> React
+> Git
+> gitHub, gitLab
+> Figma
+> Trello
+> Metodologías ágiles
+> Replit, Atom, Visual Studio Code
+ 
 ### 4. Actualmente estoy aprendiendo
 
 Java: Clases, objetos, listas, herencia, sobrecarga
