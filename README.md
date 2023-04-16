@@ -1,14 +1,9 @@
 #     Hola soy @PilyBernal 👋 
 ##    Front-end Developer
 
-## Sobre mí 
+![FONDO_DE_PERFIL](https://user-images.githubusercontent.com/108838710/232317958-489481ec-c488-4081-a5f2-bb2340449005.png)
 
-* [1. Background](#1-background)
-* [2. Estudios](#2-estudios)
-* [3. Habilidades](#3-habilidades)
-* [4. Actualmente estoy aprendiendo](#4-actualmente-estoy-aprendiendo)
-* [5. Contacto](#5-contacto)
-* [6. Hobbies](#6-hobbies)
+## About me 
 
 ***
 
