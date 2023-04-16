@@ -1,5 +1,5 @@
-# <center> Hola soy @PilyBernal 👋 </center>
-### <center> Front-end Developer </center>
+<center> Hola soy @PilyBernal 👋 </center>
+<center> <h3>Front-end Developer </center></h3>
 
 ![Fondo gitHub](https://user-images.githubusercontent.com/108838710/232319176-df639a10-c317-4695-a1e1-6ea85cc44b06.png)
 
