@@ -9,20 +9,20 @@
 
 ### 1. Background
 
-Siempre he sido muy curiosa, y cuando algo parece difícil, lo tomo como reto.
+Siempre he sido muy curiosa, y cuando algo parece difícil, lo tomo como reto.  
 
-Me encanta hablar del proyecto más hermoso de mi vida: mis hijos.
-Me dediqué a cuidar y apoyar a mi familia por más de 25 años.
-Me dediqué a las ventas por catálogo, atendí una cooperativa escolar, trabajé en un call center.
+Me encanta hablar del proyecto más hermoso de mi vida: mis hijos.  
+Me dediqué a cuidar y apoyar a mi familia por más de 25 años.  
+Me dediqué a las ventas por catálogo, atendí una cooperativa escolar, trabajé en un call center.  
 
 Hasta que decidí dar continuidad a mi carrera profesional.
 
 ### 2. Estudios
 
-Actualmente estoy haciendo una residencia en **Infotec**
-Fortalecí mis conocimientos de **Git**
+Terminé una residencia en **Infotec**  
+Fortaleciendo mis conocimientos de **Git**
 Aprendí un poco sobre *Virtualización*
-Y ahora estoy conociendo *Java*
+Y finalmente un poco de *Java*
 
 En diciembre de 2022 egresé del bootcamp en Desarrollo Web de Laboratoria
 
