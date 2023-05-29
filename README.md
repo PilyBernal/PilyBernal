@@ -17,7 +17,11 @@ Me dediqué a las ventas por catálogo, atendí una cooperativa escolar, trabaj�
 
 Hasta que decidí dar continuidad a mi carrera profesional.
 
-### 2. Estudios
+### 2. Estudios  
+
+Curso **Introducción a SQL**  
+**Laboratoria** en alianza con **Globant**  
+MySQL, instalación. Diseño y creación de Bases de Datos, claves primarias y foráneas, manipulación de datos.
 
 Terminé una residencia en **Infotec**  
 Fortaleciendo mis conocimientos de **Git**
