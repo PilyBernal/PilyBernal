@@ -7,7 +7,7 @@
 
 ***
 
-### 1. Background
+<details> ### 1. Background </details>
 
 Siempre he sido muy curiosa, y cuando algo parece difícil, lo tomo como reto.  
 
