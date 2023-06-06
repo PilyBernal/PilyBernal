@@ -47,9 +47,9 @@ Estudié 6 semestres de la Licenciatura en Matemáticas Aplicadas y Computación
 * Java: Clases, objetos, listas, herencia, sobrecarga  
 * SQL
  
-### 4. Actualmente estoy aprendiendo
+### 4. Actualmente
 
-Reforzando mis conocimientos de HTML, CSS y JavaScript
+Estoy profundizando en HTML, CSS y JavaScript
 
 ### 5. Contacto
 
