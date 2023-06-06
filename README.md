@@ -7,9 +7,9 @@
 
 ***
 
-<details> ### 1. Background 
+### 1. Background 
 
-Siempre he sido muy curiosa, y cuando algo parece difícil, lo tomo como reto.  
+<details> Siempre he sido muy curiosa, y cuando algo parece difícil, lo tomo como reto.  
 
 El proyecto personal más grande y hermoso: mis hijos.  
 Me dediqué a cuidar y apoyar a mi familia por más de 25 años.  
