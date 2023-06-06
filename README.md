@@ -43,11 +43,13 @@ Estudié 6 semestres de la Licenciatura en Matemáticas Aplicadas y Computación
 * Figma
 * Trello
 * Metodologías ágiles
-* Replit, Atom, Visual Studio Code
+* Replit, Atom, Visual Studio Code  
+* Java: Clases, objetos, listas, herencia, sobrecarga  
+* SQL
  
 ### 4. Actualmente estoy aprendiendo
 
-Java: Clases, objetos, listas, herencia, sobrecarga
+Estoy reforzando mis conocimientos de HTML
 
 ### 5. Contacto
 
@@ -58,4 +60,6 @@ Java: Clases, objetos, listas, herencia, sobrecarga
 Me gusta mucho cocinar, en compañía de mis hijos.
 Disfrutamos modificar una receta, experimentando con la combinación de sabores, texturas y condimentos
 
-Disfruto la jardinería, y ya tengo un pequeño huerto familiar :strawberry: :apple: :tomato: :lemon:
+Disfruto la jardinería, y ya tengo un pequeño huerto familiar :strawberry: :apple: :tomato: :lemon:  
+  
+Me gusta escuchar música y cantar, aunque no soy nada afinada :sweat_smile:  
