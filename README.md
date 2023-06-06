@@ -7,7 +7,7 @@
 
 ***
 
-<details> ### 1. Background </details>
+<details> ### 1. Background 
 
 Siempre he sido muy curiosa, y cuando algo parece difícil, lo tomo como reto.  
 
@@ -15,7 +15,7 @@ El proyecto personal más grande y hermoso: mis hijos.
 Me dediqué a cuidar y apoyar a mi familia por más de 25 años.  
 También a las ventas por catálogo, atendí una cooperativa escolar, trabajé en un call center.  
 
-Hasta que decidí dar continuidad a mi carrera profesional.
+Hasta que decidí dar continuidad a mi carrera profesional. </details>
 
 ### 2. Estudios  
 
