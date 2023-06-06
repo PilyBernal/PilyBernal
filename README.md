@@ -11,9 +11,9 @@
 
 Siempre he sido muy curiosa, y cuando algo parece difícil, lo tomo como reto.  
 
-Me encanta hablar del proyecto más hermoso de mi vida: mis hijos.  
+El proyecto personal más grande y hermoso: mis hijos.  
 Me dediqué a cuidar y apoyar a mi familia por más de 25 años.  
-Me dediqué a las ventas por catálogo, atendí una cooperativa escolar, trabajé en un call center.  
+También a las ventas por catálogo, atendí una cooperativa escolar, trabajé en un call center.  
 
 Hasta que decidí dar continuidad a mi carrera profesional.
 
@@ -23,9 +23,9 @@ Curso **Introducción a SQL**
 **Laboratoria** en alianza con **Globant**  
 MySQL, instalación. Diseño y creación de Bases de Datos, claves primarias y foráneas, manipulación de datos.
 
-Terminé una residencia en **Infotec**  
+Residencia en **Infotec**  
 Fortaleciendo mis conocimientos de **Git**
-Aprendí un poco sobre *Virtualización*
+Aprendí un poco sobre *Infraestructura*
 Y finalmente un poco de *Java*
 
 En diciembre de 2022 egresé del bootcamp en Desarrollo Web de Laboratoria
@@ -49,7 +49,7 @@ Estudié 6 semestres de la Licenciatura en Matemáticas Aplicadas y Computación
  
 ### 4. Actualmente estoy aprendiendo
 
-Estoy reforzando mis conocimientos de HTML
+Reforzando mis conocimientos de HTML, CSS y JavaScript
 
 ### 5. Contacto
 
